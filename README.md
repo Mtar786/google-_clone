@@ -81,7 +81,6 @@ ng serve
 The API documentation is available at `/api/docs/` when running the development server.
 
 ## Contributing
-
 1. Fork the repository
 2. Create a feature branch
 3. Commit your changes
